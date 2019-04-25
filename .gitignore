@@ -7,6 +7,8 @@ master-corpus/*
 !master-corpus/.gitkeep
 data/*
 !data/.gitkeep
+!data/IITB.en-hi-en.txt.zip
+!data/IITB.en-hi-hi.txt.zip
 
 
 # Byte-compiled / optimized / DLL files
